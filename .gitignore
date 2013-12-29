@@ -26,6 +26,11 @@
 *.sql
 *.sqlite
 
+#temp directory#
+################
+tmp/*
+
+
 # OS generated files #
 ######################
 .DS_Store
