@@ -1,0 +1,4 @@
+DEPRECATION WARNING: You didn't set config.secret_key_base. Read the upgrade documentation to learn more about this new config option. (called from service at /Users/marycutrali/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2013-12-29 15:22:33 -0500
